@@ -1,4 +1,3 @@
-
 class lengthFile {
 
     def getLength(String a) {
