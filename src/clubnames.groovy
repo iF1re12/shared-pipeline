@@ -14,6 +14,11 @@ class clubnames {
         }
         return  names.first()
     }
+    
+    def GetLength(String a)
+    {
+        return a.length()
+    }
 
 }
 
